@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+}
+
+form {
+    padding-top: 50px;
+}
+
+#submit {
+    margin-top: 20px;
+}
+
+div {
+    padding-top: 200px;
+}
+
+body {
+    background-color: orangered;
+}
